@@ -1,0 +1,25 @@
+{
+  "name": "javascript-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiandev/javascript-functions.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Aian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiandev/javascript-functions/issues"
+  },
+  "homepage": "https://github.com/aiandev/javascript-functions#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
